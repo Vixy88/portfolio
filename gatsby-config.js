@@ -10,7 +10,7 @@ module.exports = {
     siteTitle: `Portfolio | Michael Jakobsen`,
     siteTitleAlt: `Michael Jakobsen - Portfolio`,
     siteHeadline: `Portfolio Built with Gatsby - Michael Jakobsen`,
-    siteUrl: `michaeljakobsen.gatsbyjs.io`,
+    siteUrl: `https://michaeljakobsen.gatsbyjs.io/`,
     siteDescription: `My portfolio built with Gatsby and hosted on Gatsby Cloud`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
